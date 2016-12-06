@@ -1,0 +1,1 @@
+Ceci est un test qui teste testablement lui-meme en temps que test testable.
